@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- FontAwesome 6.2.0 CSS -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css"
     integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A=="
@@ -7,6 +8,14 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/js/all.min.js"
     integrity="sha512-naukR7I+Nk6gp7p5TMA4ycgfxaZBJ7MO5iC3Fp6ySQyKFHOGfpkSZkYVWV5R7u7cfAicxanwYQ5D1e17EfJcMA=="
     crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+=======
+<div class="alert alert-primary alert-dismissible fade show" role="alert">
+    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+
+    <strong>Holy guacamole!</strong> You should check in on some of those fields below.
+</div>
+
+>>>>>>> dev2
 EfGH
 IJKL
 MNOP
